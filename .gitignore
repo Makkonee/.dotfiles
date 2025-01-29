@@ -1,0 +1,6 @@
+
+.config/tmux/plugins/catppuccin-tmux/
+.config/tmux/plugins/catppuccin/
+.config/tmux/plugins/tmux-sensible/
+.config/tmux/plugins/tpm/
+.config/tmux/plugins/vim-tmux-navigator/
