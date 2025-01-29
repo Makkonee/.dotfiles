@@ -1,0 +1,14 @@
+import = ["~/.config/alacritty/catppuccin-frappe.toml"]
+
+[window]
+dimensions = { columns = 140, lines = 40 }
+padding = { x = 10, y = 10}
+
+[font]
+normal = { family = "MesloLGM Nerd Font", style = "Regular" }
+size = 11 
+
+[mouse]
+bindings = [
+{ mouse = "Right", mods = "Control", action = "Paste" },
+]
